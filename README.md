@@ -148,7 +148,7 @@ There are two deep learning models:
 The performance of deep learning base models are shown below:
 
 | Model     |  Accuracy | Recall | Precision| F1 score
-|-----------|---------------------------------------------|----------|----------------|------------|------------|
+|-----------|----------|----------------|------------|------------|
 | ResNet Baseline        |    0.93125   | 0.93125 | 0.93150     | 0.93124 |
 | ResNet All MixUp        |   0.94542  |  0.94542|  0.94547    | 0.94526|
 | ResNet Half MixUp        |  0.94458  | 0.94458| 0.94470     | 0.94452 |
